@@ -1,3 +1,5 @@
+#Both formulae have same output
+#(Finding the next greatest perfect square)
 def find_next_square(sq)
   n = Math.sqrt(sq) + 1
   n % 1 == 0 ? n**2 : -1
