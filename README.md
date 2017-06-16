@@ -6,5 +6,5 @@ To view output of code simply install ruby then run 'ruby #{FILE.name}' through 
 
 Current Progress:
 
-1) Find next perfect square (square.rb)
-2) Remove min value from array, using index for duplicates and returning empty array for single item arrays. (remove_min.rb)
+1) Find next perfect square <b>(square.rb)</b>
+2) Remove min value from array, using index for duplicates and returning empty array for single item arrays. <b>(remove_min.rb)</b>
